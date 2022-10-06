@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\006_EvenNumbOf2\obj\Debug\net6.0\006_EvenNumbOf2.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\006_EvenNumbOf2\obj\Debug\net6.0\006_EvenNumbOf2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\006_EvenNumbOf2\obj\Debug\net6.0\006_EvenNumbOf2.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\006_EvenNumbOf2\obj\Debug\net6.0\006_EvenNumbOf2.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\006_EvenNumbOf2\obj\Debug\net6.0\006_EvenNumbOf2.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\006_EvenNumbOf2\bin\Debug\net6.0\006_EvenNumbOf2.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\006_EvenNumbOf2\bin\Debug\net6.0\006_EvenNumbOf2.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\006_EvenNumbOf2\bin\Debug\net6.0\006_EvenNumbOf2.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\006_EvenNumbOf2\bin\Debug\net6.0\006_EvenNumbOf2.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\006_EvenNumbOf2\bin\Debug\net6.0\006_EvenNumbOf2.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\006_EvenNumbOf2\obj\Debug\net6.0\006_EvenNumbOf2.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\006_EvenNumbOf2\obj\Debug\net6.0\refint\006_EvenNumbOf2.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\006_EvenNumbOf2\obj\Debug\net6.0\006_EvenNumbOf2.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\006_EvenNumbOf2\obj\Debug\net6.0\006_EvenNumbOf2.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\006_EvenNumbOf2\obj\Debug\net6.0\ref\006_EvenNumbOf2.dll
