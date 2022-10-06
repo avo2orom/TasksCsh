@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\008_EvenNumbFrom1ToN\bin\Debug\net6.0\008_EvenNumbFrom1ToN.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\008_EvenNumbFrom1ToN\bin\Debug\net6.0\008_EvenNumbFrom1ToN.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\008_EvenNumbFrom1ToN\bin\Debug\net6.0\008_EvenNumbFrom1ToN.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\008_EvenNumbFrom1ToN\bin\Debug\net6.0\008_EvenNumbFrom1ToN.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\008_EvenNumbFrom1ToN\bin\Debug\net6.0\008_EvenNumbFrom1ToN.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\008_EvenNumbFrom1ToN\obj\Debug\net6.0\008_EvenNumbFrom1ToN.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\008_EvenNumbFrom1ToN\obj\Debug\net6.0\008_EvenNumbFrom1ToN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\008_EvenNumbFrom1ToN\obj\Debug\net6.0\008_EvenNumbFrom1ToN.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\008_EvenNumbFrom1ToN\obj\Debug\net6.0\008_EvenNumbFrom1ToN.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\008_EvenNumbFrom1ToN\obj\Debug\net6.0\008_EvenNumbFrom1ToN.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\008_EvenNumbFrom1ToN\obj\Debug\net6.0\008_EvenNumbFrom1ToN.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\008_EvenNumbFrom1ToN\obj\Debug\net6.0\refint\008_EvenNumbFrom1ToN.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\008_EvenNumbFrom1ToN\obj\Debug\net6.0\008_EvenNumbFrom1ToN.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\008_EvenNumbFrom1ToN\obj\Debug\net6.0\008_EvenNumbFrom1ToN.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\008_EvenNumbFrom1ToN\obj\Debug\net6.0\ref\008_EvenNumbFrom1ToN.dll
