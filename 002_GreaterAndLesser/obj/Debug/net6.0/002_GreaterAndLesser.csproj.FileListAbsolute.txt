@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\002_GreaterAndLesser\bin\Debug\net6.0\002_GreaterAndLesser.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\002_GreaterAndLesser\bin\Debug\net6.0\002_GreaterAndLesser.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\002_GreaterAndLesser\bin\Debug\net6.0\002_GreaterAndLesser.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\002_GreaterAndLesser\bin\Debug\net6.0\002_GreaterAndLesser.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\002_GreaterAndLesser\bin\Debug\net6.0\002_GreaterAndLesser.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\002_GreaterAndLesser\obj\Debug\net6.0\002_GreaterAndLesser.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\002_GreaterAndLesser\obj\Debug\net6.0\002_GreaterAndLesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\002_GreaterAndLesser\obj\Debug\net6.0\002_GreaterAndLesser.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\002_GreaterAndLesser\obj\Debug\net6.0\002_GreaterAndLesser.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\002_GreaterAndLesser\obj\Debug\net6.0\002_GreaterAndLesser.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\002_GreaterAndLesser\obj\Debug\net6.0\002_GreaterAndLesser.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\002_GreaterAndLesser\obj\Debug\net6.0\refint\002_GreaterAndLesser.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\002_GreaterAndLesser\obj\Debug\net6.0\002_GreaterAndLesser.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\002_GreaterAndLesser\obj\Debug\net6.0\002_GreaterAndLesser.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\002_GreaterAndLesser\obj\Debug\net6.0\ref\002_GreaterAndLesser.dll
