@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\015_NumOfWeek\obj\Debug\net6.0\015_NumOfWeek.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\015_NumOfWeek\obj\Debug\net6.0\015_NumOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\015_NumOfWeek\obj\Debug\net6.0\015_NumOfWeek.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\015_NumOfWeek\obj\Debug\net6.0\015_NumOfWeek.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\015_NumOfWeek\obj\Debug\net6.0\015_NumOfWeek.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\015_NumOfWeek\bin\Debug\net6.0\015_NumOfWeek.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\015_NumOfWeek\bin\Debug\net6.0\015_NumOfWeek.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\015_NumOfWeek\bin\Debug\net6.0\015_NumOfWeek.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\015_NumOfWeek\bin\Debug\net6.0\015_NumOfWeek.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\015_NumOfWeek\bin\Debug\net6.0\015_NumOfWeek.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\015_NumOfWeek\obj\Debug\net6.0\015_NumOfWeek.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\015_NumOfWeek\obj\Debug\net6.0\refint\015_NumOfWeek.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\015_NumOfWeek\obj\Debug\net6.0\015_NumOfWeek.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\015_NumOfWeek\obj\Debug\net6.0\015_NumOfWeek.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\015_NumOfWeek\obj\Debug\net6.0\ref\015_NumOfWeek.dll
