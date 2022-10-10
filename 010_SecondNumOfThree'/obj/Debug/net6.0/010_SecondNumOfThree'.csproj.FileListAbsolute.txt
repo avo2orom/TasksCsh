@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\010_SecondNumOfThree'\obj\Debug\net6.0\010_SecondNumOfThree'.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\010_SecondNumOfThree'\obj\Debug\net6.0\010_SecondNumOfThree'.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\010_SecondNumOfThree'\obj\Debug\net6.0\010_SecondNumOfThree'.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\010_SecondNumOfThree'\obj\Debug\net6.0\010_SecondNumOfThree'.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\010_SecondNumOfThree'\obj\Debug\net6.0\010_SecondNumOfThree'.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\010_SecondNumOfThree'\bin\Debug\net6.0\010_SecondNumOfThree'.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\010_SecondNumOfThree'\bin\Debug\net6.0\010_SecondNumOfThree'.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\010_SecondNumOfThree'\bin\Debug\net6.0\010_SecondNumOfThree'.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\010_SecondNumOfThree'\bin\Debug\net6.0\010_SecondNumOfThree'.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\010_SecondNumOfThree'\bin\Debug\net6.0\010_SecondNumOfThree'.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\010_SecondNumOfThree'\obj\Debug\net6.0\010_SecondNumOfThree'.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\010_SecondNumOfThree'\obj\Debug\net6.0\refint\010_SecondNumOfThree'.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\010_SecondNumOfThree'\obj\Debug\net6.0\010_SecondNumOfThree'.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\010_SecondNumOfThree'\obj\Debug\net6.0\010_SecondNumOfThree'.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\010_SecondNumOfThree'\obj\Debug\net6.0\ref\010_SecondNumOfThree'.dll
