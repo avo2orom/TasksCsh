@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\017_PlaneQuarterNum\obj\Debug\net6.0\017_PlaneQuarterNum.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\017_PlaneQuarterNum\obj\Debug\net6.0\017_PlaneQuarterNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\017_PlaneQuarterNum\obj\Debug\net6.0\017_PlaneQuarterNum.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\017_PlaneQuarterNum\obj\Debug\net6.0\017_PlaneQuarterNum.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\017_PlaneQuarterNum\obj\Debug\net6.0\017_PlaneQuarterNum.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\017_PlaneQuarterNum\bin\Debug\net6.0\017_PlaneQuarterNum.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\017_PlaneQuarterNum\bin\Debug\net6.0\017_PlaneQuarterNum.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\017_PlaneQuarterNum\bin\Debug\net6.0\017_PlaneQuarterNum.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\017_PlaneQuarterNum\bin\Debug\net6.0\017_PlaneQuarterNum.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\017_PlaneQuarterNum\bin\Debug\net6.0\017_PlaneQuarterNum.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\017_PlaneQuarterNum\obj\Debug\net6.0\017_PlaneQuarterNum.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\017_PlaneQuarterNum\obj\Debug\net6.0\refint\017_PlaneQuarterNum.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\017_PlaneQuarterNum\obj\Debug\net6.0\017_PlaneQuarterNum.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\017_PlaneQuarterNum\obj\Debug\net6.0\017_PlaneQuarterNum.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\017_PlaneQuarterNum\obj\Debug\net6.0\ref\017_PlaneQuarterNum.dll
