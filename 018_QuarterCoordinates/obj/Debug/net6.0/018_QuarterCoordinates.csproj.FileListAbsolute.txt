@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\018_QuarterCoordinates\bin\Debug\net6.0\018_QuarterCoordinates.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\018_QuarterCoordinates\bin\Debug\net6.0\018_QuarterCoordinates.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\018_QuarterCoordinates\bin\Debug\net6.0\018_QuarterCoordinates.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\018_QuarterCoordinates\bin\Debug\net6.0\018_QuarterCoordinates.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\018_QuarterCoordinates\bin\Debug\net6.0\018_QuarterCoordinates.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\018_QuarterCoordinates\obj\Debug\net6.0\018_QuarterCoordinates.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\018_QuarterCoordinates\obj\Debug\net6.0\018_QuarterCoordinates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\018_QuarterCoordinates\obj\Debug\net6.0\018_QuarterCoordinates.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\018_QuarterCoordinates\obj\Debug\net6.0\018_QuarterCoordinates.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\018_QuarterCoordinates\obj\Debug\net6.0\018_QuarterCoordinates.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\018_QuarterCoordinates\obj\Debug\net6.0\018_QuarterCoordinates.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\018_QuarterCoordinates\obj\Debug\net6.0\refint\018_QuarterCoordinates.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\018_QuarterCoordinates\obj\Debug\net6.0\018_QuarterCoordinates.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\018_QuarterCoordinates\obj\Debug\net6.0\018_QuarterCoordinates.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\018_QuarterCoordinates\obj\Debug\net6.0\ref\018_QuarterCoordinates.dll
