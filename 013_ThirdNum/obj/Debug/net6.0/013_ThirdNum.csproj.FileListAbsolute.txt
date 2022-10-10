@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\013_ThirdNum\bin\Debug\net6.0\013_ThirdNum.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\013_ThirdNum\bin\Debug\net6.0\013_ThirdNum.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\013_ThirdNum\bin\Debug\net6.0\013_ThirdNum.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\013_ThirdNum\bin\Debug\net6.0\013_ThirdNum.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\013_ThirdNum\bin\Debug\net6.0\013_ThirdNum.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\013_ThirdNum\obj\Debug\net6.0\013_ThirdNum.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\013_ThirdNum\obj\Debug\net6.0\013_ThirdNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\013_ThirdNum\obj\Debug\net6.0\013_ThirdNum.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\013_ThirdNum\obj\Debug\net6.0\013_ThirdNum.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\013_ThirdNum\obj\Debug\net6.0\013_ThirdNum.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\013_ThirdNum\obj\Debug\net6.0\013_ThirdNum.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\013_ThirdNum\obj\Debug\net6.0\refint\013_ThirdNum.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\013_ThirdNum\obj\Debug\net6.0\013_ThirdNum.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\013_ThirdNum\obj\Debug\net6.0\013_ThirdNum.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\013_ThirdNum\obj\Debug\net6.0\ref\013_ThirdNum.dll
