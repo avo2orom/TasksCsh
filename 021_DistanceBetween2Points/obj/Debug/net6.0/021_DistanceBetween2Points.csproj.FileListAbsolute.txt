@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\021_DistanceBetween2Points\obj\Debug\net6.0\021_DistanceBetween2Points.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\021_DistanceBetween2Points\obj\Debug\net6.0\021_DistanceBetween2Points.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\021_DistanceBetween2Points\obj\Debug\net6.0\021_DistanceBetween2Points.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\021_DistanceBetween2Points\obj\Debug\net6.0\021_DistanceBetween2Points.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\021_DistanceBetween2Points\obj\Debug\net6.0\021_DistanceBetween2Points.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\021_DistanceBetween2Points\bin\Debug\net6.0\021_DistanceBetween2Points.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\021_DistanceBetween2Points\bin\Debug\net6.0\021_DistanceBetween2Points.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\021_DistanceBetween2Points\bin\Debug\net6.0\021_DistanceBetween2Points.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\021_DistanceBetween2Points\bin\Debug\net6.0\021_DistanceBetween2Points.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\021_DistanceBetween2Points\bin\Debug\net6.0\021_DistanceBetween2Points.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\021_DistanceBetween2Points\obj\Debug\net6.0\021_DistanceBetween2Points.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\021_DistanceBetween2Points\obj\Debug\net6.0\refint\021_DistanceBetween2Points.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\021_DistanceBetween2Points\obj\Debug\net6.0\021_DistanceBetween2Points.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\021_DistanceBetween2Points\obj\Debug\net6.0\021_DistanceBetween2Points.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\021_DistanceBetween2Points\obj\Debug\net6.0\ref\021_DistanceBetween2Points.dll
