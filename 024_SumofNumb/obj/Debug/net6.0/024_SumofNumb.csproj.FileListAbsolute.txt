@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\024_SumofNumb\obj\Debug\net6.0\024_SumofNumb.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\024_SumofNumb\obj\Debug\net6.0\024_SumofNumb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\024_SumofNumb\obj\Debug\net6.0\024_SumofNumb.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\024_SumofNumb\obj\Debug\net6.0\024_SumofNumb.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\024_SumofNumb\obj\Debug\net6.0\024_SumofNumb.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\024_SumofNumb\bin\Debug\net6.0\024_SumofNumb.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\024_SumofNumb\bin\Debug\net6.0\024_SumofNumb.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\024_SumofNumb\bin\Debug\net6.0\024_SumofNumb.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\024_SumofNumb\bin\Debug\net6.0\024_SumofNumb.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\024_SumofNumb\bin\Debug\net6.0\024_SumofNumb.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\024_SumofNumb\obj\Debug\net6.0\024_SumofNumb.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\024_SumofNumb\obj\Debug\net6.0\refint\024_SumofNumb.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\024_SumofNumb\obj\Debug\net6.0\024_SumofNumb.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\024_SumofNumb\obj\Debug\net6.0\024_SumofNumb.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\024_SumofNumb\obj\Debug\net6.0\ref\024_SumofNumb.dll
