@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\025_AdegreeB\obj\Debug\net6.0\025_AdegreeB.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\025_AdegreeB\obj\Debug\net6.0\025_AdegreeB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\025_AdegreeB\obj\Debug\net6.0\025_AdegreeB.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\025_AdegreeB\obj\Debug\net6.0\025_AdegreeB.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\025_AdegreeB\obj\Debug\net6.0\025_AdegreeB.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\025_AdegreeB\bin\Debug\net6.0\025_AdegreeB.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\025_AdegreeB\bin\Debug\net6.0\025_AdegreeB.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\025_AdegreeB\bin\Debug\net6.0\025_AdegreeB.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\025_AdegreeB\bin\Debug\net6.0\025_AdegreeB.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\025_AdegreeB\bin\Debug\net6.0\025_AdegreeB.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\025_AdegreeB\obj\Debug\net6.0\025_AdegreeB.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\025_AdegreeB\obj\Debug\net6.0\refint\025_AdegreeB.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\025_AdegreeB\obj\Debug\net6.0\025_AdegreeB.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\025_AdegreeB\obj\Debug\net6.0\025_AdegreeB.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\025_AdegreeB\obj\Debug\net6.0\ref\025_AdegreeB.dll
