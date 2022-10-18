@@ -8,23 +8,23 @@
 6, 1, 33 -> [6, 1, 33]
 */
 
-int[] arr = new int[0];
-
 //пользователь вводит длинну массива
-void newArrayP(int[] arr)
+int[] newArrayP()
 {   
     int n;
     Console.Write("Введите длинну массива: ");
     n = Convert.ToInt32(Console.ReadLine());
     int[] arr = new int[n];
+    return arr;
 }
 
 //длинну массива определяет рандом
-void newArrayR(int[] arr)
+int[] newArrayR()
 {   
     int ArrayLengthR = new Random().Next(0,1000);
     int[] a = new int[ArrayLengthR];
     Console.WriteLine("Длинна массива составляет " + ArrayLengthR);
+    return a;
 }
 
 //заполняет массив пользователь
@@ -42,7 +42,7 @@ void fillArrayR(int[]array)
 {
     for (int i=0; i < array.Length; i++)
     {
-        array[i] = new Random().Next(0,50);
+        array[i] = new Random().Next(0,1000);
     }
 }
 
@@ -58,4 +58,14 @@ void PrintArray(int[]array)
     Console.WriteLine();
 }
 
+//Запускаем вручную!
 
+int[] a1 = newArrayP();
+fillArrayP(a1);
+PrintArray(a1);
+
+//Запускаем рандом!
+
+int[] a2 = newArrayR();
+fillArrayR(a2);
+PrintArray(a2);
