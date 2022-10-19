@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\035_HowManyNumInLine\obj\Debug\net6.0\035_HowManyNumInLine.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\035_HowManyNumInLine\obj\Debug\net6.0\035_HowManyNumInLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\035_HowManyNumInLine\obj\Debug\net6.0\035_HowManyNumInLine.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\035_HowManyNumInLine\obj\Debug\net6.0\035_HowManyNumInLine.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\035_HowManyNumInLine\obj\Debug\net6.0\035_HowManyNumInLine.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\035_HowManyNumInLine\bin\Debug\net6.0\035_HowManyNumInLine.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\035_HowManyNumInLine\bin\Debug\net6.0\035_HowManyNumInLine.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\035_HowManyNumInLine\bin\Debug\net6.0\035_HowManyNumInLine.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\035_HowManyNumInLine\bin\Debug\net6.0\035_HowManyNumInLine.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\035_HowManyNumInLine\bin\Debug\net6.0\035_HowManyNumInLine.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\035_HowManyNumInLine\obj\Debug\net6.0\035_HowManyNumInLine.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\035_HowManyNumInLine\obj\Debug\net6.0\refint\035_HowManyNumInLine.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\035_HowManyNumInLine\obj\Debug\net6.0\035_HowManyNumInLine.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\035_HowManyNumInLine\obj\Debug\net6.0\035_HowManyNumInLine.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\035_HowManyNumInLine\obj\Debug\net6.0\ref\035_HowManyNumInLine.dll
