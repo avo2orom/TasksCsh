@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\032_ChangePositiveAndNegativeInArr\bin\Debug\net6.0\032_ChangePositiveAndNegativeInArr.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\032_ChangePositiveAndNegativeInArr\bin\Debug\net6.0\032_ChangePositiveAndNegativeInArr.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\032_ChangePositiveAndNegativeInArr\bin\Debug\net6.0\032_ChangePositiveAndNegativeInArr.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\032_ChangePositiveAndNegativeInArr\bin\Debug\net6.0\032_ChangePositiveAndNegativeInArr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\032_ChangePositiveAndNegativeInArr\bin\Debug\net6.0\032_ChangePositiveAndNegativeInArr.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\032_ChangePositiveAndNegativeInArr\obj\Debug\net6.0\032_ChangePositiveAndNegativeInArr.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\032_ChangePositiveAndNegativeInArr\obj\Debug\net6.0\032_ChangePositiveAndNegativeInArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\032_ChangePositiveAndNegativeInArr\obj\Debug\net6.0\032_ChangePositiveAndNegativeInArr.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\032_ChangePositiveAndNegativeInArr\obj\Debug\net6.0\032_ChangePositiveAndNegativeInArr.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\032_ChangePositiveAndNegativeInArr\obj\Debug\net6.0\032_ChangePositiveAndNegativeInArr.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\032_ChangePositiveAndNegativeInArr\obj\Debug\net6.0\032_ChangePositiveAndNegativeInArr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\032_ChangePositiveAndNegativeInArr\obj\Debug\net6.0\refint\032_ChangePositiveAndNegativeInArr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\032_ChangePositiveAndNegativeInArr\obj\Debug\net6.0\032_ChangePositiveAndNegativeInArr.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\032_ChangePositiveAndNegativeInArr\obj\Debug\net6.0\032_ChangePositiveAndNegativeInArr.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\032_ChangePositiveAndNegativeInArr\obj\Debug\net6.0\ref\032_ChangePositiveAndNegativeInArr.dll
