@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\031_SumOfPositiveAndNegativeNumInArr\bin\Debug\net6.0\031_SumOfPositiveAndNegativeNumInArr.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\031_SumOfPositiveAndNegativeNumInArr\bin\Debug\net6.0\031_SumOfPositiveAndNegativeNumInArr.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\031_SumOfPositiveAndNegativeNumInArr\bin\Debug\net6.0\031_SumOfPositiveAndNegativeNumInArr.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\031_SumOfPositiveAndNegativeNumInArr\bin\Debug\net6.0\031_SumOfPositiveAndNegativeNumInArr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\031_SumOfPositiveAndNegativeNumInArr\bin\Debug\net6.0\031_SumOfPositiveAndNegativeNumInArr.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\031_SumOfPositiveAndNegativeNumInArr\obj\Debug\net6.0\031_SumOfPositiveAndNegativeNumInArr.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\031_SumOfPositiveAndNegativeNumInArr\obj\Debug\net6.0\031_SumOfPositiveAndNegativeNumInArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\031_SumOfPositiveAndNegativeNumInArr\obj\Debug\net6.0\031_SumOfPositiveAndNegativeNumInArr.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\031_SumOfPositiveAndNegativeNumInArr\obj\Debug\net6.0\031_SumOfPositiveAndNegativeNumInArr.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\031_SumOfPositiveAndNegativeNumInArr\obj\Debug\net6.0\031_SumOfPositiveAndNegativeNumInArr.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\031_SumOfPositiveAndNegativeNumInArr\obj\Debug\net6.0\031_SumOfPositiveAndNegativeNumInArr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\031_SumOfPositiveAndNegativeNumInArr\obj\Debug\net6.0\refint\031_SumOfPositiveAndNegativeNumInArr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\031_SumOfPositiveAndNegativeNumInArr\obj\Debug\net6.0\031_SumOfPositiveAndNegativeNumInArr.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\031_SumOfPositiveAndNegativeNumInArr\obj\Debug\net6.0\031_SumOfPositiveAndNegativeNumInArr.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\031_SumOfPositiveAndNegativeNumInArr\obj\Debug\net6.0\ref\031_SumOfPositiveAndNegativeNumInArr.dll
