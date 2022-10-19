@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\033_ExistNumInArr\obj\Debug\net6.0\033_ExistNumInArr.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\033_ExistNumInArr\obj\Debug\net6.0\033_ExistNumInArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\033_ExistNumInArr\obj\Debug\net6.0\033_ExistNumInArr.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\033_ExistNumInArr\obj\Debug\net6.0\033_ExistNumInArr.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\033_ExistNumInArr\obj\Debug\net6.0\033_ExistNumInArr.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\033_ExistNumInArr\bin\Debug\net6.0\033_ExistNumInArr.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\033_ExistNumInArr\bin\Debug\net6.0\033_ExistNumInArr.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\033_ExistNumInArr\bin\Debug\net6.0\033_ExistNumInArr.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\033_ExistNumInArr\bin\Debug\net6.0\033_ExistNumInArr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\033_ExistNumInArr\bin\Debug\net6.0\033_ExistNumInArr.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\033_ExistNumInArr\obj\Debug\net6.0\033_ExistNumInArr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\033_ExistNumInArr\obj\Debug\net6.0\refint\033_ExistNumInArr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\033_ExistNumInArr\obj\Debug\net6.0\033_ExistNumInArr.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\033_ExistNumInArr\obj\Debug\net6.0\033_ExistNumInArr.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\033_ExistNumInArr\obj\Debug\net6.0\ref\033_ExistNumInArr.dll
