@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\037_MulOfElementOfArr\obj\Debug\net6.0\037_MulOfElementOfArr.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\037_MulOfElementOfArr\obj\Debug\net6.0\037_MulOfElementOfArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\037_MulOfElementOfArr\obj\Debug\net6.0\037_MulOfElementOfArr.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\037_MulOfElementOfArr\obj\Debug\net6.0\037_MulOfElementOfArr.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\037_MulOfElementOfArr\obj\Debug\net6.0\037_MulOfElementOfArr.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\037_MulOfElementOfArr\bin\Debug\net6.0\037_MulOfElementOfArr.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\037_MulOfElementOfArr\bin\Debug\net6.0\037_MulOfElementOfArr.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\037_MulOfElementOfArr\bin\Debug\net6.0\037_MulOfElementOfArr.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\037_MulOfElementOfArr\bin\Debug\net6.0\037_MulOfElementOfArr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\037_MulOfElementOfArr\bin\Debug\net6.0\037_MulOfElementOfArr.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\037_MulOfElementOfArr\obj\Debug\net6.0\037_MulOfElementOfArr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\037_MulOfElementOfArr\obj\Debug\net6.0\refint\037_MulOfElementOfArr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\037_MulOfElementOfArr\obj\Debug\net6.0\037_MulOfElementOfArr.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\037_MulOfElementOfArr\obj\Debug\net6.0\037_MulOfElementOfArr.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\037_MulOfElementOfArr\obj\Debug\net6.0\ref\037_MulOfElementOfArr.dll

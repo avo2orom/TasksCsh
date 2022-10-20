@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\034_EvenNumbersInArray\bin\Debug\net6.0\034_EvenNumbersInArray.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\034_EvenNumbersInArray\bin\Debug\net6.0\034_EvenNumbersInArray.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\034_EvenNumbersInArray\bin\Debug\net6.0\034_EvenNumbersInArray.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\034_EvenNumbersInArray\bin\Debug\net6.0\034_EvenNumbersInArray.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\034_EvenNumbersInArray\bin\Debug\net6.0\034_EvenNumbersInArray.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\034_EvenNumbersInArray\obj\Debug\net6.0\034_EvenNumbersInArray.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\034_EvenNumbersInArray\obj\Debug\net6.0\034_EvenNumbersInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\034_EvenNumbersInArray\obj\Debug\net6.0\034_EvenNumbersInArray.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\034_EvenNumbersInArray\obj\Debug\net6.0\034_EvenNumbersInArray.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\034_EvenNumbersInArray\obj\Debug\net6.0\034_EvenNumbersInArray.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\034_EvenNumbersInArray\obj\Debug\net6.0\034_EvenNumbersInArray.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\034_EvenNumbersInArray\obj\Debug\net6.0\refint\034_EvenNumbersInArray.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\034_EvenNumbersInArray\obj\Debug\net6.0\034_EvenNumbersInArray.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\034_EvenNumbersInArray\obj\Debug\net6.0\034_EvenNumbersInArray.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\034_EvenNumbersInArray\obj\Debug\net6.0\ref\034_EvenNumbersInArray.dll
