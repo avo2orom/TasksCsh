@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\038_DifTweenMaxAndMinElemInArr\obj\Debug\net6.0\038_DifTweenMaxAndMinElemInArr.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\038_DifTweenMaxAndMinElemInArr\obj\Debug\net6.0\038_DifTweenMaxAndMinElemInArr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\038_DifTweenMaxAndMinElemInArr\obj\Debug\net6.0\038_DifTweenMaxAndMinElemInArr.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\038_DifTweenMaxAndMinElemInArr\obj\Debug\net6.0\038_DifTweenMaxAndMinElemInArr.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\038_DifTweenMaxAndMinElemInArr\obj\Debug\net6.0\038_DifTweenMaxAndMinElemInArr.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\038_DifTweenMaxAndMinElemInArr\bin\Debug\net6.0\038_DifTweenMaxAndMinElemInArr.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\038_DifTweenMaxAndMinElemInArr\bin\Debug\net6.0\038_DifTweenMaxAndMinElemInArr.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\038_DifTweenMaxAndMinElemInArr\bin\Debug\net6.0\038_DifTweenMaxAndMinElemInArr.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\038_DifTweenMaxAndMinElemInArr\bin\Debug\net6.0\038_DifTweenMaxAndMinElemInArr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\038_DifTweenMaxAndMinElemInArr\bin\Debug\net6.0\038_DifTweenMaxAndMinElemInArr.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\038_DifTweenMaxAndMinElemInArr\obj\Debug\net6.0\038_DifTweenMaxAndMinElemInArr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\038_DifTweenMaxAndMinElemInArr\obj\Debug\net6.0\refint\038_DifTweenMaxAndMinElemInArr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\038_DifTweenMaxAndMinElemInArr\obj\Debug\net6.0\038_DifTweenMaxAndMinElemInArr.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\038_DifTweenMaxAndMinElemInArr\obj\Debug\net6.0\038_DifTweenMaxAndMinElemInArr.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\038_DifTweenMaxAndMinElemInArr\obj\Debug\net6.0\ref\038_DifTweenMaxAndMinElemInArr.dll
