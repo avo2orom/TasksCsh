@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\036_SumOfElementsInoddPosit\obj\Debug\net6.0\036_SumOfElementsInoddPosit.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\036_SumOfElementsInoddPosit\obj\Debug\net6.0\036_SumOfElementsInoddPosit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\036_SumOfElementsInoddPosit\obj\Debug\net6.0\036_SumOfElementsInoddPosit.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\036_SumOfElementsInoddPosit\obj\Debug\net6.0\036_SumOfElementsInoddPosit.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\036_SumOfElementsInoddPosit\obj\Debug\net6.0\036_SumOfElementsInoddPosit.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\036_SumOfElementsInoddPosit\bin\Debug\net6.0\036_SumOfElementsInoddPosit.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\036_SumOfElementsInoddPosit\bin\Debug\net6.0\036_SumOfElementsInoddPosit.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\036_SumOfElementsInoddPosit\bin\Debug\net6.0\036_SumOfElementsInoddPosit.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\036_SumOfElementsInoddPosit\bin\Debug\net6.0\036_SumOfElementsInoddPosit.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\036_SumOfElementsInoddPosit\bin\Debug\net6.0\036_SumOfElementsInoddPosit.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\036_SumOfElementsInoddPosit\obj\Debug\net6.0\036_SumOfElementsInoddPosit.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\036_SumOfElementsInoddPosit\obj\Debug\net6.0\refint\036_SumOfElementsInoddPosit.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\036_SumOfElementsInoddPosit\obj\Debug\net6.0\036_SumOfElementsInoddPosit.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\036_SumOfElementsInoddPosit\obj\Debug\net6.0\036_SumOfElementsInoddPosit.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\036_SumOfElementsInoddPosit\obj\Debug\net6.0\ref\036_SumOfElementsInoddPosit.dll
