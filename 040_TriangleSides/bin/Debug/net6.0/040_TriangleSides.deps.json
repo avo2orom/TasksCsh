@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "040_TriangleSides/1.0.0": {
+        "runtime": {
+          "040_TriangleSides.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "040_TriangleSides/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

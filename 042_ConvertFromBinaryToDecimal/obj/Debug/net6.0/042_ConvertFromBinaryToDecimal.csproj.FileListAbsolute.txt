@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\042_ConvertFromBinaryToDecimal\bin\Debug\net6.0\042_ConvertFromBinaryToDecimal.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\042_ConvertFromBinaryToDecimal\bin\Debug\net6.0\042_ConvertFromBinaryToDecimal.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\042_ConvertFromBinaryToDecimal\bin\Debug\net6.0\042_ConvertFromBinaryToDecimal.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\042_ConvertFromBinaryToDecimal\bin\Debug\net6.0\042_ConvertFromBinaryToDecimal.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\042_ConvertFromBinaryToDecimal\bin\Debug\net6.0\042_ConvertFromBinaryToDecimal.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\042_ConvertFromBinaryToDecimal\obj\Debug\net6.0\042_ConvertFromBinaryToDecimal.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\042_ConvertFromBinaryToDecimal\obj\Debug\net6.0\042_ConvertFromBinaryToDecimal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\042_ConvertFromBinaryToDecimal\obj\Debug\net6.0\042_ConvertFromBinaryToDecimal.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\042_ConvertFromBinaryToDecimal\obj\Debug\net6.0\042_ConvertFromBinaryToDecimal.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\042_ConvertFromBinaryToDecimal\obj\Debug\net6.0\042_ConvertFromBinaryToDecimal.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\042_ConvertFromBinaryToDecimal\obj\Debug\net6.0\042_ConvertFromBinaryToDecimal.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\042_ConvertFromBinaryToDecimal\obj\Debug\net6.0\refint\042_ConvertFromBinaryToDecimal.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\042_ConvertFromBinaryToDecimal\obj\Debug\net6.0\042_ConvertFromBinaryToDecimal.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\042_ConvertFromBinaryToDecimal\obj\Debug\net6.0\042_ConvertFromBinaryToDecimal.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\042_ConvertFromBinaryToDecimal\obj\Debug\net6.0\ref\042_ConvertFromBinaryToDecimal.dll
