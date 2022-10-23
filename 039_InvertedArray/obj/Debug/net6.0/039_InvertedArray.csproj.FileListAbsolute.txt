@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\039_InvertedArray\obj\Debug\net6.0\039_InvertedArray.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\039_InvertedArray\obj\Debug\net6.0\039_InvertedArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\039_InvertedArray\obj\Debug\net6.0\039_InvertedArray.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\039_InvertedArray\obj\Debug\net6.0\039_InvertedArray.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\039_InvertedArray\obj\Debug\net6.0\039_InvertedArray.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\039_InvertedArray\bin\Debug\net6.0\039_InvertedArray.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\039_InvertedArray\bin\Debug\net6.0\039_InvertedArray.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\039_InvertedArray\bin\Debug\net6.0\039_InvertedArray.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\039_InvertedArray\bin\Debug\net6.0\039_InvertedArray.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\039_InvertedArray\bin\Debug\net6.0\039_InvertedArray.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\039_InvertedArray\obj\Debug\net6.0\039_InvertedArray.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\039_InvertedArray\obj\Debug\net6.0\refint\039_InvertedArray.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\039_InvertedArray\obj\Debug\net6.0\039_InvertedArray.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\039_InvertedArray\obj\Debug\net6.0\039_InvertedArray.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\039_InvertedArray\obj\Debug\net6.0\ref\039_InvertedArray.dll

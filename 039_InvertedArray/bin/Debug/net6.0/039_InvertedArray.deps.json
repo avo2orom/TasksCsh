@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "039_InvertedArray/1.0.0": {
+        "runtime": {
+          "039_InvertedArray.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "039_InvertedArray/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
