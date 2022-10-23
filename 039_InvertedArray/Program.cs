@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-int[] arr = new int[8];
-int[] arr2 = new int[8];
+int[] arr = new int[5];
 
 void newArray(int[] array)
 {   
