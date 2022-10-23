@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\044_Fibonacci\bin\Debug\net6.0\044_Fibonacci.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\044_Fibonacci\bin\Debug\net6.0\044_Fibonacci.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\044_Fibonacci\bin\Debug\net6.0\044_Fibonacci.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\044_Fibonacci\bin\Debug\net6.0\044_Fibonacci.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\044_Fibonacci\bin\Debug\net6.0\044_Fibonacci.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\044_Fibonacci\obj\Debug\net6.0\044_Fibonacci.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\044_Fibonacci\obj\Debug\net6.0\044_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\044_Fibonacci\obj\Debug\net6.0\044_Fibonacci.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\044_Fibonacci\obj\Debug\net6.0\044_Fibonacci.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\044_Fibonacci\obj\Debug\net6.0\044_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\044_Fibonacci\obj\Debug\net6.0\044_Fibonacci.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\044_Fibonacci\obj\Debug\net6.0\refint\044_Fibonacci.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\044_Fibonacci\obj\Debug\net6.0\044_Fibonacci.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\044_Fibonacci\obj\Debug\net6.0\044_Fibonacci.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\044_Fibonacci\obj\Debug\net6.0\ref\044_Fibonacci.dll
