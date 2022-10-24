@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\041_NumAboveZero\bin\Debug\net6.0\041_NumAboveZero.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\041_NumAboveZero\bin\Debug\net6.0\041_NumAboveZero.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\041_NumAboveZero\bin\Debug\net6.0\041_NumAboveZero.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\041_NumAboveZero\bin\Debug\net6.0\041_NumAboveZero.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\041_NumAboveZero\bin\Debug\net6.0\041_NumAboveZero.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\041_NumAboveZero\obj\Debug\net6.0\041_NumAboveZero.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\041_NumAboveZero\obj\Debug\net6.0\041_NumAboveZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\041_NumAboveZero\obj\Debug\net6.0\041_NumAboveZero.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\041_NumAboveZero\obj\Debug\net6.0\041_NumAboveZero.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\041_NumAboveZero\obj\Debug\net6.0\041_NumAboveZero.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\041_NumAboveZero\obj\Debug\net6.0\041_NumAboveZero.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\041_NumAboveZero\obj\Debug\net6.0\refint\041_NumAboveZero.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\041_NumAboveZero\obj\Debug\net6.0\041_NumAboveZero.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\041_NumAboveZero\obj\Debug\net6.0\041_NumAboveZero.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\041_NumAboveZero\obj\Debug\net6.0\ref\041_NumAboveZero.dll
