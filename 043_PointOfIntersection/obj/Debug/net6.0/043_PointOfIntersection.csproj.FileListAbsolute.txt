@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\043_PointOfIntersection\bin\Debug\net6.0\043_PointOfIntersection.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\043_PointOfIntersection\bin\Debug\net6.0\043_PointOfIntersection.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\043_PointOfIntersection\bin\Debug\net6.0\043_PointOfIntersection.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\043_PointOfIntersection\bin\Debug\net6.0\043_PointOfIntersection.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\043_PointOfIntersection\bin\Debug\net6.0\043_PointOfIntersection.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\043_PointOfIntersection\obj\Debug\net6.0\043_PointOfIntersection.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\043_PointOfIntersection\obj\Debug\net6.0\043_PointOfIntersection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\043_PointOfIntersection\obj\Debug\net6.0\043_PointOfIntersection.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\043_PointOfIntersection\obj\Debug\net6.0\043_PointOfIntersection.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\043_PointOfIntersection\obj\Debug\net6.0\043_PointOfIntersection.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\043_PointOfIntersection\obj\Debug\net6.0\043_PointOfIntersection.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\043_PointOfIntersection\obj\Debug\net6.0\refint\043_PointOfIntersection.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\043_PointOfIntersection\obj\Debug\net6.0\043_PointOfIntersection.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\043_PointOfIntersection\obj\Debug\net6.0\043_PointOfIntersection.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\043_PointOfIntersection\obj\Debug\net6.0\ref\043_PointOfIntersection.dll
