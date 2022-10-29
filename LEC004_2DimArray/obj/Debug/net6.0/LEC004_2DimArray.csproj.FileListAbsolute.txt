@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\LEC004_2DimArray\bin\Debug\net6.0\LEC004_2DimArray.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\LEC004_2DimArray\bin\Debug\net6.0\LEC004_2DimArray.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\LEC004_2DimArray\bin\Debug\net6.0\LEC004_2DimArray.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\LEC004_2DimArray\bin\Debug\net6.0\LEC004_2DimArray.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\LEC004_2DimArray\bin\Debug\net6.0\LEC004_2DimArray.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\LEC004_2DimArray\obj\Debug\net6.0\LEC004_2DimArray.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\LEC004_2DimArray\obj\Debug\net6.0\LEC004_2DimArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\LEC004_2DimArray\obj\Debug\net6.0\LEC004_2DimArray.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\LEC004_2DimArray\obj\Debug\net6.0\LEC004_2DimArray.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\LEC004_2DimArray\obj\Debug\net6.0\LEC004_2DimArray.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\LEC004_2DimArray\obj\Debug\net6.0\LEC004_2DimArray.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\LEC004_2DimArray\obj\Debug\net6.0\refint\LEC004_2DimArray.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\LEC004_2DimArray\obj\Debug\net6.0\LEC004_2DimArray.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\LEC004_2DimArray\obj\Debug\net6.0\LEC004_2DimArray.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\LEC004_2DimArray\obj\Debug\net6.0\ref\LEC004_2DimArray.dll
