@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\052_ArithmMeanInEachColumn\bin\Debug\net6.0\052_ArithmMeanInEachColumn.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\052_ArithmMeanInEachColumn\bin\Debug\net6.0\052_ArithmMeanInEachColumn.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\052_ArithmMeanInEachColumn\bin\Debug\net6.0\052_ArithmMeanInEachColumn.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\052_ArithmMeanInEachColumn\bin\Debug\net6.0\052_ArithmMeanInEachColumn.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\052_ArithmMeanInEachColumn\bin\Debug\net6.0\052_ArithmMeanInEachColumn.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\052_ArithmMeanInEachColumn\obj\Debug\net6.0\052_ArithmMeanInEachColumn.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\052_ArithmMeanInEachColumn\obj\Debug\net6.0\052_ArithmMeanInEachColumn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\052_ArithmMeanInEachColumn\obj\Debug\net6.0\052_ArithmMeanInEachColumn.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\052_ArithmMeanInEachColumn\obj\Debug\net6.0\052_ArithmMeanInEachColumn.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\052_ArithmMeanInEachColumn\obj\Debug\net6.0\052_ArithmMeanInEachColumn.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\052_ArithmMeanInEachColumn\obj\Debug\net6.0\052_ArithmMeanInEachColumn.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\052_ArithmMeanInEachColumn\obj\Debug\net6.0\refint\052_ArithmMeanInEachColumn.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\052_ArithmMeanInEachColumn\obj\Debug\net6.0\052_ArithmMeanInEachColumn.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\052_ArithmMeanInEachColumn\obj\Debug\net6.0\052_ArithmMeanInEachColumn.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\052_ArithmMeanInEachColumn\obj\Debug\net6.0\ref\052_ArithmMeanInEachColumn.dll

@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\051_SumOfElemInMainIn2Arr\obj\Debug\net6.0\051_SumOfElemInMainIn2Arr.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\051_SumOfElemInMainIn2Arr\obj\Debug\net6.0\051_SumOfElemInMainIn2Arr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\051_SumOfElemInMainIn2Arr\obj\Debug\net6.0\051_SumOfElemInMainIn2Arr.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\051_SumOfElemInMainIn2Arr\obj\Debug\net6.0\051_SumOfElemInMainIn2Arr.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\051_SumOfElemInMainIn2Arr\obj\Debug\net6.0\051_SumOfElemInMainIn2Arr.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\051_SumOfElemInMainIn2Arr\bin\Debug\net6.0\051_SumOfElemInMainIn2Arr.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\051_SumOfElemInMainIn2Arr\bin\Debug\net6.0\051_SumOfElemInMainIn2Arr.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\051_SumOfElemInMainIn2Arr\bin\Debug\net6.0\051_SumOfElemInMainIn2Arr.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\051_SumOfElemInMainIn2Arr\bin\Debug\net6.0\051_SumOfElemInMainIn2Arr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\051_SumOfElemInMainIn2Arr\bin\Debug\net6.0\051_SumOfElemInMainIn2Arr.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\051_SumOfElemInMainIn2Arr\obj\Debug\net6.0\051_SumOfElemInMainIn2Arr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\051_SumOfElemInMainIn2Arr\obj\Debug\net6.0\refint\051_SumOfElemInMainIn2Arr.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\051_SumOfElemInMainIn2Arr\obj\Debug\net6.0\051_SumOfElemInMainIn2Arr.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\051_SumOfElemInMainIn2Arr\obj\Debug\net6.0\051_SumOfElemInMainIn2Arr.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\051_SumOfElemInMainIn2Arr\obj\Debug\net6.0\ref\051_SumOfElemInMainIn2Arr.dll

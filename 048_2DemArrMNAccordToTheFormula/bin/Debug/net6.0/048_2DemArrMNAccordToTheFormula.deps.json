@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "048_2DemArrMNAccordToTheFormula/1.0.0": {
+        "runtime": {
+          "048_2DemArrMNAccordToTheFormula.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "048_2DemArrMNAccordToTheFormula/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

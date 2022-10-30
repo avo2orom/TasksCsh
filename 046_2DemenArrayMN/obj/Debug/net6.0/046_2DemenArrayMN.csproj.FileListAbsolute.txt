@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\046_2DemenArrayMN\obj\Debug\net6.0\046_2DemenArrayMN.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\046_2DemenArrayMN\obj\Debug\net6.0\046_2DemenArrayMN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\046_2DemenArrayMN\obj\Debug\net6.0\046_2DemenArrayMN.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\046_2DemenArrayMN\obj\Debug\net6.0\046_2DemenArrayMN.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\046_2DemenArrayMN\obj\Debug\net6.0\046_2DemenArrayMN.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\046_2DemenArrayMN\bin\Debug\net6.0\046_2DemenArrayMN.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\046_2DemenArrayMN\bin\Debug\net6.0\046_2DemenArrayMN.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\046_2DemenArrayMN\bin\Debug\net6.0\046_2DemenArrayMN.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\046_2DemenArrayMN\bin\Debug\net6.0\046_2DemenArrayMN.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\046_2DemenArrayMN\bin\Debug\net6.0\046_2DemenArrayMN.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\046_2DemenArrayMN\obj\Debug\net6.0\046_2DemenArrayMN.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\046_2DemenArrayMN\obj\Debug\net6.0\refint\046_2DemenArrayMN.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\046_2DemenArrayMN\obj\Debug\net6.0\046_2DemenArrayMN.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\046_2DemenArrayMN\obj\Debug\net6.0\046_2DemenArrayMN.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\046_2DemenArrayMN\obj\Debug\net6.0\ref\046_2DemenArrayMN.dll

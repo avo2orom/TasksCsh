@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\047_2ArrayRandomRealNumb\obj\Debug\net6.0\047_2ArrayRandomRealNumb.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\047_2ArrayRandomRealNumb\obj\Debug\net6.0\047_2ArrayRandomRealNumb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\047_2ArrayRandomRealNumb\obj\Debug\net6.0\047_2ArrayRandomRealNumb.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\047_2ArrayRandomRealNumb\obj\Debug\net6.0\047_2ArrayRandomRealNumb.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\047_2ArrayRandomRealNumb\obj\Debug\net6.0\047_2ArrayRandomRealNumb.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\047_2ArrayRandomRealNumb\bin\Debug\net6.0\047_2ArrayRandomRealNumb.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\047_2ArrayRandomRealNumb\bin\Debug\net6.0\047_2ArrayRandomRealNumb.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\047_2ArrayRandomRealNumb\bin\Debug\net6.0\047_2ArrayRandomRealNumb.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\047_2ArrayRandomRealNumb\bin\Debug\net6.0\047_2ArrayRandomRealNumb.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\047_2ArrayRandomRealNumb\bin\Debug\net6.0\047_2ArrayRandomRealNumb.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\047_2ArrayRandomRealNumb\obj\Debug\net6.0\047_2ArrayRandomRealNumb.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\047_2ArrayRandomRealNumb\obj\Debug\net6.0\refint\047_2ArrayRandomRealNumb.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\047_2ArrayRandomRealNumb\obj\Debug\net6.0\047_2ArrayRandomRealNumb.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\047_2ArrayRandomRealNumb\obj\Debug\net6.0\047_2ArrayRandomRealNumb.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\047_2ArrayRandomRealNumb\obj\Debug\net6.0\ref\047_2ArrayRandomRealNumb.dll

@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\050_ElementsIn2Array\obj\Debug\net6.0\050_ElementsIn2Array.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\050_ElementsIn2Array\obj\Debug\net6.0\050_ElementsIn2Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\050_ElementsIn2Array\obj\Debug\net6.0\050_ElementsIn2Array.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\050_ElementsIn2Array\obj\Debug\net6.0\050_ElementsIn2Array.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\050_ElementsIn2Array\obj\Debug\net6.0\050_ElementsIn2Array.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\050_ElementsIn2Array\bin\Debug\net6.0\050_ElementsIn2Array.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\050_ElementsIn2Array\bin\Debug\net6.0\050_ElementsIn2Array.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\050_ElementsIn2Array\bin\Debug\net6.0\050_ElementsIn2Array.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\050_ElementsIn2Array\bin\Debug\net6.0\050_ElementsIn2Array.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\050_ElementsIn2Array\bin\Debug\net6.0\050_ElementsIn2Array.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\050_ElementsIn2Array\obj\Debug\net6.0\050_ElementsIn2Array.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\050_ElementsIn2Array\obj\Debug\net6.0\refint\050_ElementsIn2Array.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\050_ElementsIn2Array\obj\Debug\net6.0\050_ElementsIn2Array.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\050_ElementsIn2Array\obj\Debug\net6.0\050_ElementsIn2Array.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\050_ElementsIn2Array\obj\Debug\net6.0\ref\050_ElementsIn2Array.dll

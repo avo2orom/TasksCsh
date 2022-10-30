@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\048_2DemArrMNAccordToTheFormula\bin\Debug\net6.0\048_2DemArrMNAccordToTheFormula.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\048_2DemArrMNAccordToTheFormula\bin\Debug\net6.0\048_2DemArrMNAccordToTheFormula.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\048_2DemArrMNAccordToTheFormula\bin\Debug\net6.0\048_2DemArrMNAccordToTheFormula.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\048_2DemArrMNAccordToTheFormula\bin\Debug\net6.0\048_2DemArrMNAccordToTheFormula.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\048_2DemArrMNAccordToTheFormula\bin\Debug\net6.0\048_2DemArrMNAccordToTheFormula.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\048_2DemArrMNAccordToTheFormula\obj\Debug\net6.0\048_2DemArrMNAccordToTheFormula.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\048_2DemArrMNAccordToTheFormula\obj\Debug\net6.0\048_2DemArrMNAccordToTheFormula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\048_2DemArrMNAccordToTheFormula\obj\Debug\net6.0\048_2DemArrMNAccordToTheFormula.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\048_2DemArrMNAccordToTheFormula\obj\Debug\net6.0\048_2DemArrMNAccordToTheFormula.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\048_2DemArrMNAccordToTheFormula\obj\Debug\net6.0\048_2DemArrMNAccordToTheFormula.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\048_2DemArrMNAccordToTheFormula\obj\Debug\net6.0\048_2DemArrMNAccordToTheFormula.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\048_2DemArrMNAccordToTheFormula\obj\Debug\net6.0\refint\048_2DemArrMNAccordToTheFormula.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\048_2DemArrMNAccordToTheFormula\obj\Debug\net6.0\048_2DemArrMNAccordToTheFormula.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\048_2DemArrMNAccordToTheFormula\obj\Debug\net6.0\048_2DemArrMNAccordToTheFormula.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\048_2DemArrMNAccordToTheFormula\obj\Debug\net6.0\ref\048_2DemArrMNAccordToTheFormula.dll
