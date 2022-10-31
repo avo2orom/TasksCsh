@@ -5,7 +5,7 @@
 5 9 2 3
 8 4 2 4
 Среднее арифметическое каждого столбца: 4,6; 5,6; 3,6; 3.
-*/ 
+*/
 
 void FillArray(int[,] matr)
 {
@@ -13,7 +13,7 @@ void FillArray(int[,] matr)
     {
         for (int j = 0; j < matr.GetLength(1); j++) // цикл для столбцов
         {
-            matr[i, j] = new Random().Next(0,10);
+            matr[i, j] = new Random().Next(0, 10);
         }
     }
 }
@@ -26,32 +26,25 @@ void PrintArray(int[,] matr)
         {
             Console.Write($"{matr[i, j]} ");
         }
-    Console.WriteLine();
+        Console.WriteLine();
     }
 }
 
 void ArithmMeanInEachColumn(int[,] matr)
 {
-    count = 0;
-    for (int i = 0; i < matr.GetLength(0); i++) //цикл для строк
+    for (int i = 0; i < 4; i++)
     {
-        for (int j = 0; j < matr.GetLength(1); j++) // цикл для столбцов
+        int count = 0;
+        for (int t = 0; t < 3; t++)
         {
-            for (int a = 0; a < n; a++) // цикл для рассчета
-        {
-            
+            count += matr[t, i];
         }
-        }
-    Console.WriteLine();
+        Console.Write($"{Math.Round(((float)count / 3), 2)}; ");
     }
 }
 
-Console.Write("Введите высоту матрицы: ");
-int m = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите длинну матрицы: ");
-int n = Convert.ToInt32(Console.ReadLine());
-
-int[,] matrix = new int[m,n];
+int[,] matrix = new int[3, 4];
 
 FillArray(matrix);
 PrintArray(matrix);
+ArithmMeanInEachColumn(matrix);
