@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\056_RowWithSmallestSumOfElem\obj\Debug\net6.0\056_RowWithSmallestSumOfElem.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\056_RowWithSmallestSumOfElem\obj\Debug\net6.0\056_RowWithSmallestSumOfElem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\056_RowWithSmallestSumOfElem\obj\Debug\net6.0\056_RowWithSmallestSumOfElem.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\056_RowWithSmallestSumOfElem\obj\Debug\net6.0\056_RowWithSmallestSumOfElem.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\056_RowWithSmallestSumOfElem\obj\Debug\net6.0\056_RowWithSmallestSumOfElem.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\056_RowWithSmallestSumOfElem\bin\Debug\net6.0\056_RowWithSmallestSumOfElem.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\056_RowWithSmallestSumOfElem\bin\Debug\net6.0\056_RowWithSmallestSumOfElem.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\056_RowWithSmallestSumOfElem\bin\Debug\net6.0\056_RowWithSmallestSumOfElem.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\056_RowWithSmallestSumOfElem\bin\Debug\net6.0\056_RowWithSmallestSumOfElem.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\056_RowWithSmallestSumOfElem\bin\Debug\net6.0\056_RowWithSmallestSumOfElem.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\056_RowWithSmallestSumOfElem\obj\Debug\net6.0\056_RowWithSmallestSumOfElem.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\056_RowWithSmallestSumOfElem\obj\Debug\net6.0\refint\056_RowWithSmallestSumOfElem.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\056_RowWithSmallestSumOfElem\obj\Debug\net6.0\056_RowWithSmallestSumOfElem.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\056_RowWithSmallestSumOfElem\obj\Debug\net6.0\056_RowWithSmallestSumOfElem.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\056_RowWithSmallestSumOfElem\obj\Debug\net6.0\ref\056_RowWithSmallestSumOfElem.dll

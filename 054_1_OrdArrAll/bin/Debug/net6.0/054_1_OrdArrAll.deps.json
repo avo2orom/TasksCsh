@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "054_1_OrdArrAll/1.0.0": {
+        "runtime": {
+          "054_1_OrdArrAll.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "054_1_OrdArrAll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
