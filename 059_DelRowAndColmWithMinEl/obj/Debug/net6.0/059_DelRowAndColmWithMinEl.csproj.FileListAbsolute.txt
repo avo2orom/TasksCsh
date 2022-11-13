@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\059_DelRowAndColmWithMinEl\bin\Debug\net6.0\059_DelRowAndColmWithMinEl.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\059_DelRowAndColmWithMinEl\bin\Debug\net6.0\059_DelRowAndColmWithMinEl.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\059_DelRowAndColmWithMinEl\bin\Debug\net6.0\059_DelRowAndColmWithMinEl.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\059_DelRowAndColmWithMinEl\bin\Debug\net6.0\059_DelRowAndColmWithMinEl.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\059_DelRowAndColmWithMinEl\bin\Debug\net6.0\059_DelRowAndColmWithMinEl.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\059_DelRowAndColmWithMinEl\obj\Debug\net6.0\059_DelRowAndColmWithMinEl.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\059_DelRowAndColmWithMinEl\obj\Debug\net6.0\059_DelRowAndColmWithMinEl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\059_DelRowAndColmWithMinEl\obj\Debug\net6.0\059_DelRowAndColmWithMinEl.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\059_DelRowAndColmWithMinEl\obj\Debug\net6.0\059_DelRowAndColmWithMinEl.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\059_DelRowAndColmWithMinEl\obj\Debug\net6.0\059_DelRowAndColmWithMinEl.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\059_DelRowAndColmWithMinEl\obj\Debug\net6.0\059_DelRowAndColmWithMinEl.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\059_DelRowAndColmWithMinEl\obj\Debug\net6.0\refint\059_DelRowAndColmWithMinEl.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\059_DelRowAndColmWithMinEl\obj\Debug\net6.0\059_DelRowAndColmWithMinEl.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\059_DelRowAndColmWithMinEl\obj\Debug\net6.0\059_DelRowAndColmWithMinEl.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\059_DelRowAndColmWithMinEl\obj\Debug\net6.0\ref\059_DelRowAndColmWithMinEl.dll

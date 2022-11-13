@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\055_ChangeRowsAndColumns\bin\Debug\net6.0\055_ChangeRowsAndColumns.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\055_ChangeRowsAndColumns\bin\Debug\net6.0\055_ChangeRowsAndColumns.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\055_ChangeRowsAndColumns\bin\Debug\net6.0\055_ChangeRowsAndColumns.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\055_ChangeRowsAndColumns\bin\Debug\net6.0\055_ChangeRowsAndColumns.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\055_ChangeRowsAndColumns\bin\Debug\net6.0\055_ChangeRowsAndColumns.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\055_ChangeRowsAndColumns\obj\Debug\net6.0\055_ChangeRowsAndColumns.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\055_ChangeRowsAndColumns\obj\Debug\net6.0\055_ChangeRowsAndColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\055_ChangeRowsAndColumns\obj\Debug\net6.0\055_ChangeRowsAndColumns.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\055_ChangeRowsAndColumns\obj\Debug\net6.0\055_ChangeRowsAndColumns.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\055_ChangeRowsAndColumns\obj\Debug\net6.0\055_ChangeRowsAndColumns.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\055_ChangeRowsAndColumns\obj\Debug\net6.0\055_ChangeRowsAndColumns.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\055_ChangeRowsAndColumns\obj\Debug\net6.0\refint\055_ChangeRowsAndColumns.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\055_ChangeRowsAndColumns\obj\Debug\net6.0\055_ChangeRowsAndColumns.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\055_ChangeRowsAndColumns\obj\Debug\net6.0\055_ChangeRowsAndColumns.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\055_ChangeRowsAndColumns\obj\Debug\net6.0\ref\055_ChangeRowsAndColumns.dll

@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\060_3DemArrNonRepitedElem\bin\Debug\net6.0\060_3DemArrNonRepitedElem.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\060_3DemArrNonRepitedElem\bin\Debug\net6.0\060_3DemArrNonRepitedElem.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\060_3DemArrNonRepitedElem\bin\Debug\net6.0\060_3DemArrNonRepitedElem.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\060_3DemArrNonRepitedElem\bin\Debug\net6.0\060_3DemArrNonRepitedElem.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\060_3DemArrNonRepitedElem\bin\Debug\net6.0\060_3DemArrNonRepitedElem.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\060_3DemArrNonRepitedElem\obj\Debug\net6.0\060_3DemArrNonRepitedElem.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\060_3DemArrNonRepitedElem\obj\Debug\net6.0\060_3DemArrNonRepitedElem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\060_3DemArrNonRepitedElem\obj\Debug\net6.0\060_3DemArrNonRepitedElem.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\060_3DemArrNonRepitedElem\obj\Debug\net6.0\060_3DemArrNonRepitedElem.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\060_3DemArrNonRepitedElem\obj\Debug\net6.0\060_3DemArrNonRepitedElem.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\060_3DemArrNonRepitedElem\obj\Debug\net6.0\060_3DemArrNonRepitedElem.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\060_3DemArrNonRepitedElem\obj\Debug\net6.0\refint\060_3DemArrNonRepitedElem.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\060_3DemArrNonRepitedElem\obj\Debug\net6.0\060_3DemArrNonRepitedElem.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\060_3DemArrNonRepitedElem\obj\Debug\net6.0\060_3DemArrNonRepitedElem.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\060_3DemArrNonRepitedElem\obj\Debug\net6.0\ref\060_3DemArrNonRepitedElem.dll

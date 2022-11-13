@@ -3,13 +3,13 @@
 4; массив [6, 7, 19, 345, 3] -> нет
 -3; массив [6, 7, 19, 345, 3] -> да*/
 
-int[] arr = new int[5];
+int[] arr = new int[50];
 
 void newArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
-        array[i] = new Random().Next(-9, 10);
+        array[i] = new Random().Next(-100, 200);
     }
 }
 

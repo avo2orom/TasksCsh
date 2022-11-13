@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\053_ChangeRowsInArray\bin\Debug\net6.0\053_ChangeRowsInArray.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\053_ChangeRowsInArray\bin\Debug\net6.0\053_ChangeRowsInArray.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\053_ChangeRowsInArray\bin\Debug\net6.0\053_ChangeRowsInArray.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\053_ChangeRowsInArray\bin\Debug\net6.0\053_ChangeRowsInArray.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\053_ChangeRowsInArray\bin\Debug\net6.0\053_ChangeRowsInArray.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\053_ChangeRowsInArray\obj\Debug\net6.0\053_ChangeRowsInArray.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\053_ChangeRowsInArray\obj\Debug\net6.0\053_ChangeRowsInArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\053_ChangeRowsInArray\obj\Debug\net6.0\053_ChangeRowsInArray.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\053_ChangeRowsInArray\obj\Debug\net6.0\053_ChangeRowsInArray.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\053_ChangeRowsInArray\obj\Debug\net6.0\053_ChangeRowsInArray.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\053_ChangeRowsInArray\obj\Debug\net6.0\053_ChangeRowsInArray.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\053_ChangeRowsInArray\obj\Debug\net6.0\refint\053_ChangeRowsInArray.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\053_ChangeRowsInArray\obj\Debug\net6.0\053_ChangeRowsInArray.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\053_ChangeRowsInArray\obj\Debug\net6.0\053_ChangeRowsInArray.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\053_ChangeRowsInArray\obj\Debug\net6.0\ref\053_ChangeRowsInArray.dll

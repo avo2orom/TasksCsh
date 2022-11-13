@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\058_MulOf2DobArray\bin\Debug\net6.0\058_MulOf2DobArray.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\058_MulOf2DobArray\bin\Debug\net6.0\058_MulOf2DobArray.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\058_MulOf2DobArray\bin\Debug\net6.0\058_MulOf2DobArray.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\058_MulOf2DobArray\bin\Debug\net6.0\058_MulOf2DobArray.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\058_MulOf2DobArray\bin\Debug\net6.0\058_MulOf2DobArray.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\058_MulOf2DobArray\obj\Debug\net6.0\058_MulOf2DobArray.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\058_MulOf2DobArray\obj\Debug\net6.0\058_MulOf2DobArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\058_MulOf2DobArray\obj\Debug\net6.0\058_MulOf2DobArray.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\058_MulOf2DobArray\obj\Debug\net6.0\058_MulOf2DobArray.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\058_MulOf2DobArray\obj\Debug\net6.0\058_MulOf2DobArray.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\058_MulOf2DobArray\obj\Debug\net6.0\058_MulOf2DobArray.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\058_MulOf2DobArray\obj\Debug\net6.0\refint\058_MulOf2DobArray.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\058_MulOf2DobArray\obj\Debug\net6.0\058_MulOf2DobArray.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\058_MulOf2DobArray\obj\Debug\net6.0\058_MulOf2DobArray.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\058_MulOf2DobArray\obj\Debug\net6.0\ref\058_MulOf2DobArray.dll
