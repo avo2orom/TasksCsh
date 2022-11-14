@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\063_Recursia_From1toN\obj\Debug\net6.0\063_Recursia_From1toN.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\063_Recursia_From1toN\obj\Debug\net6.0\063_Recursia_From1toN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\063_Recursia_From1toN\obj\Debug\net6.0\063_Recursia_From1toN.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\063_Recursia_From1toN\obj\Debug\net6.0\063_Recursia_From1toN.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\063_Recursia_From1toN\obj\Debug\net6.0\063_Recursia_From1toN.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\063_Recursia_From1toN\bin\Debug\net6.0\063_Recursia_From1toN.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\063_Recursia_From1toN\bin\Debug\net6.0\063_Recursia_From1toN.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\063_Recursia_From1toN\bin\Debug\net6.0\063_Recursia_From1toN.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\063_Recursia_From1toN\bin\Debug\net6.0\063_Recursia_From1toN.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\063_Recursia_From1toN\bin\Debug\net6.0\063_Recursia_From1toN.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\063_Recursia_From1toN\obj\Debug\net6.0\063_Recursia_From1toN.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\063_Recursia_From1toN\obj\Debug\net6.0\refint\063_Recursia_From1toN.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\063_Recursia_From1toN\obj\Debug\net6.0\063_Recursia_From1toN.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\063_Recursia_From1toN\obj\Debug\net6.0\063_Recursia_From1toN.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\063_Recursia_From1toN\obj\Debug\net6.0\ref\063_Recursia_From1toN.dll

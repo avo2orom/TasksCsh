@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\066_Recursia_NumbTweenMN\obj\Debug\net6.0\066_Recursia_NumbTweenMN.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\066_Recursia_NumbTweenMN\obj\Debug\net6.0\066_Recursia_NumbTweenMN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\066_Recursia_NumbTweenMN\obj\Debug\net6.0\066_Recursia_NumbTweenMN.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\066_Recursia_NumbTweenMN\obj\Debug\net6.0\066_Recursia_NumbTweenMN.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\066_Recursia_NumbTweenMN\obj\Debug\net6.0\066_Recursia_NumbTweenMN.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\066_Recursia_NumbTweenMN\bin\Debug\net6.0\066_Recursia_NumbTweenMN.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\066_Recursia_NumbTweenMN\bin\Debug\net6.0\066_Recursia_NumbTweenMN.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\066_Recursia_NumbTweenMN\bin\Debug\net6.0\066_Recursia_NumbTweenMN.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\066_Recursia_NumbTweenMN\bin\Debug\net6.0\066_Recursia_NumbTweenMN.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\066_Recursia_NumbTweenMN\bin\Debug\net6.0\066_Recursia_NumbTweenMN.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\066_Recursia_NumbTweenMN\obj\Debug\net6.0\066_Recursia_NumbTweenMN.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\066_Recursia_NumbTweenMN\obj\Debug\net6.0\refint\066_Recursia_NumbTweenMN.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\066_Recursia_NumbTweenMN\obj\Debug\net6.0\066_Recursia_NumbTweenMN.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\066_Recursia_NumbTweenMN\obj\Debug\net6.0\066_Recursia_NumbTweenMN.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\066_Recursia_NumbTweenMN\obj\Debug\net6.0\ref\066_Recursia_NumbTweenMN.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "066_Recursia_NumbTweenMN/1.0.0": {
+        "runtime": {
+          "066_Recursia_NumbTweenMN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "066_Recursia_NumbTweenMN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

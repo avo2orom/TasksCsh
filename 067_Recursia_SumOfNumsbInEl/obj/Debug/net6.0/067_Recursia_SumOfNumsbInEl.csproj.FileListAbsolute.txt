@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\067_Recursia_SumOfNumsbInEl\bin\Debug\net6.0\067_Recursia_SumOfNumsbInEl.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\067_Recursia_SumOfNumsbInEl\bin\Debug\net6.0\067_Recursia_SumOfNumsbInEl.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\067_Recursia_SumOfNumsbInEl\bin\Debug\net6.0\067_Recursia_SumOfNumsbInEl.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\067_Recursia_SumOfNumsbInEl\bin\Debug\net6.0\067_Recursia_SumOfNumsbInEl.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\067_Recursia_SumOfNumsbInEl\bin\Debug\net6.0\067_Recursia_SumOfNumsbInEl.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\067_Recursia_SumOfNumsbInEl\obj\Debug\net6.0\067_Recursia_SumOfNumsbInEl.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\067_Recursia_SumOfNumsbInEl\obj\Debug\net6.0\067_Recursia_SumOfNumsbInEl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\067_Recursia_SumOfNumsbInEl\obj\Debug\net6.0\067_Recursia_SumOfNumsbInEl.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\067_Recursia_SumOfNumsbInEl\obj\Debug\net6.0\067_Recursia_SumOfNumsbInEl.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\067_Recursia_SumOfNumsbInEl\obj\Debug\net6.0\067_Recursia_SumOfNumsbInEl.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\067_Recursia_SumOfNumsbInEl\obj\Debug\net6.0\067_Recursia_SumOfNumsbInEl.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\067_Recursia_SumOfNumsbInEl\obj\Debug\net6.0\refint\067_Recursia_SumOfNumsbInEl.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\067_Recursia_SumOfNumsbInEl\obj\Debug\net6.0\067_Recursia_SumOfNumsbInEl.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\067_Recursia_SumOfNumsbInEl\obj\Debug\net6.0\067_Recursia_SumOfNumsbInEl.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\067_Recursia_SumOfNumsbInEl\obj\Debug\net6.0\ref\067_Recursia_SumOfNumsbInEl.dll

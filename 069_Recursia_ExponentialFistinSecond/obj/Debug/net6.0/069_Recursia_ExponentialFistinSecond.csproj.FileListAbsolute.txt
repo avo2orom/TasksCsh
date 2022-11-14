@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\069_Recursia_ExponentialFistinSecond\bin\Debug\net6.0\069_Recursia_ExponentialFistinSecond.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\069_Recursia_ExponentialFistinSecond\bin\Debug\net6.0\069_Recursia_ExponentialFistinSecond.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\069_Recursia_ExponentialFistinSecond\bin\Debug\net6.0\069_Recursia_ExponentialFistinSecond.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\069_Recursia_ExponentialFistinSecond\bin\Debug\net6.0\069_Recursia_ExponentialFistinSecond.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\069_Recursia_ExponentialFistinSecond\bin\Debug\net6.0\069_Recursia_ExponentialFistinSecond.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\069_Recursia_ExponentialFistinSecond\obj\Debug\net6.0\069_Recursia_ExponentialFistinSecond.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\069_Recursia_ExponentialFistinSecond\obj\Debug\net6.0\069_Recursia_ExponentialFistinSecond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\069_Recursia_ExponentialFistinSecond\obj\Debug\net6.0\069_Recursia_ExponentialFistinSecond.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\069_Recursia_ExponentialFistinSecond\obj\Debug\net6.0\069_Recursia_ExponentialFistinSecond.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\069_Recursia_ExponentialFistinSecond\obj\Debug\net6.0\069_Recursia_ExponentialFistinSecond.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\069_Recursia_ExponentialFistinSecond\obj\Debug\net6.0\069_Recursia_ExponentialFistinSecond.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\069_Recursia_ExponentialFistinSecond\obj\Debug\net6.0\refint\069_Recursia_ExponentialFistinSecond.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\069_Recursia_ExponentialFistinSecond\obj\Debug\net6.0\069_Recursia_ExponentialFistinSecond.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\069_Recursia_ExponentialFistinSecond\obj\Debug\net6.0\069_Recursia_ExponentialFistinSecond.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\069_Recursia_ExponentialFistinSecond\obj\Debug\net6.0\ref\069_Recursia_ExponentialFistinSecond.dll

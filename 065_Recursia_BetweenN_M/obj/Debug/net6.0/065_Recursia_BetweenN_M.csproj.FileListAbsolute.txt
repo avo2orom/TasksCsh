@@ -1,0 +1,15 @@
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\065_Recursia_BetweenN_M\bin\Debug\net6.0\065_Recursia_BetweenN_M.exe
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\065_Recursia_BetweenN_M\bin\Debug\net6.0\065_Recursia_BetweenN_M.deps.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\065_Recursia_BetweenN_M\bin\Debug\net6.0\065_Recursia_BetweenN_M.runtimeconfig.json
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\065_Recursia_BetweenN_M\bin\Debug\net6.0\065_Recursia_BetweenN_M.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\065_Recursia_BetweenN_M\bin\Debug\net6.0\065_Recursia_BetweenN_M.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\065_Recursia_BetweenN_M\obj\Debug\net6.0\065_Recursia_BetweenN_M.csproj.AssemblyReference.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\065_Recursia_BetweenN_M\obj\Debug\net6.0\065_Recursia_BetweenN_M.GeneratedMSBuildEditorConfig.editorconfig
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\065_Recursia_BetweenN_M\obj\Debug\net6.0\065_Recursia_BetweenN_M.AssemblyInfoInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\065_Recursia_BetweenN_M\obj\Debug\net6.0\065_Recursia_BetweenN_M.AssemblyInfo.cs
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\065_Recursia_BetweenN_M\obj\Debug\net6.0\065_Recursia_BetweenN_M.csproj.CoreCompileInputs.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\065_Recursia_BetweenN_M\obj\Debug\net6.0\065_Recursia_BetweenN_M.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\065_Recursia_BetweenN_M\obj\Debug\net6.0\refint\065_Recursia_BetweenN_M.dll
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\065_Recursia_BetweenN_M\obj\Debug\net6.0\065_Recursia_BetweenN_M.pdb
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\065_Recursia_BetweenN_M\obj\Debug\net6.0\065_Recursia_BetweenN_M.genruntimeconfig.cache
+C:\Саша\GeekBrain\Обучение\1 четверть\Знакомство с языком программирования С#\TasksCsh\TasksCsh\065_Recursia_BetweenN_M\obj\Debug\net6.0\ref\065_Recursia_BetweenN_M.dll
